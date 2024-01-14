@@ -1,4 +1,6 @@
-Sample Application with
-Backend - Spring boot
-Frontend - Reactjs
+Sample Application with<br/>
+Backend - Spring boot<br/>
+Frontend - Reactjs<br/>
+<br/>
+<br/>
 
